@@ -12,7 +12,7 @@ This project is licensed under the GNU Affero General Public License (AGPL) - se
 
 ## Technology Stack
 
-Energetica uses Flask and Python for its backend, SQL for its database, and Jinja, JavaScript, and p5.js for its frontend.
+Energetica uses Flask and Python for its backend, SQLAlchemy for its database, and Jinja, JavaScript, and p5.js for its frontend.
 
 ## Running a Local Instance
 
